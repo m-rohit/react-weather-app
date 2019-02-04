@@ -1,3 +1,9 @@
+<h2>This Is a Simple Weather App Built With React and Bootstap on Node.js :</h2>
+
+<p align="center">
+  <img src="https://github.com/m-rohit/weather-radar/blob/master/src/weather_radar.PNG">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
